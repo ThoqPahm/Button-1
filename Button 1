@@ -1,0 +1,1 @@
+<center><button class="button button1" id="button1" onclick="scrollToButton2()">CLICK VÀO ĐÂY</button></center>
